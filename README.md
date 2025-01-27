@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Damsara Jayanath</h1>
 - 🌱 I’m currently learning **Machine Learning & Data Science**
 
-- 💬 Ask me about **Python, Node.js, React**
+- 💬 Ask me about **Python, Scikit Learn, Node.js, React**
 
 - 📫 How to reach me **damsarajayanath@gmail.com**
 
